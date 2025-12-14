@@ -59,4 +59,9 @@ a_1 = 1
 a_2 = 1.3333333333333333
 a_3 = 1.1904761904761905
 a_4 = 1.4126984126984126
-a_5 = 1.2360471070148489# python3
+a_5 = 1.2360471070148489
+
+## Используемые материалы
+https://www.youtube.com/watch?v=IJDJ0kBx2LM&feature=youtu.be
+https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-13-rekursivnye-funkcii-2023-01-23
+https://habr.com/ru/articles/337030/# python3
