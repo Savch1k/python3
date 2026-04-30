@@ -64,8 +64,8 @@ a_5 = 1.2360471070148489
 
 
 ## Используемые материалы
-https://www.youtube.com/watch?v=IJDJ0kBx2LM&feature=youtu.be
+1.[Recursion in Programming - Full Course](https://www.youtube.com/watch?v=IJDJ0kBx2LM&feature=youtu.be)
 
-https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-13-rekursivnye-funkcii-2023-01-23
+2.[Рекурсивные функции в Python](https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-13-rekursivnye-funkcii-2023-01-23)
 
-https://habr.com/ru/articles/337030/
+3.[Как работает Рекурсия?](https://habr.com/ru/articles/337030/)
