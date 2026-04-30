@@ -60,6 +60,8 @@ a_2 = 1.3333333333333333
 a_3 = 1.1904761904761905
 a_4 = 1.4126984126984126
 a_5 = 1.2360471070148489
+<img width="561" height="322" alt="image" src="https://github.com/user-attachments/assets/ed9b25fe-2a5a-4c8f-94e2-9cadc3257699" />
+
 
 ## Используемые материалы
 https://www.youtube.com/watch?v=IJDJ0kBx2LM&feature=youtu.be
